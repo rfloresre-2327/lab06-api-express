@@ -1,0 +1,9 @@
+proyecto-cursos/
+├── app.js
+├── data/
+│   └── cursosData.js
+├── controllers/
+│   └── cursoController.js
+├── routes/
+│   └── cursoRoutes.js
+└── package.json
